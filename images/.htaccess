@@ -1,0 +1,25 @@
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript
+</ifmodule>
+
+# Cache Control with .htaccess EXPIRES BY TYPE
+# from http://forum.powweb.com/showthread.php?t=62786
+
+### turn on the Expires engine
+ExpiresActive On
+
+### expires after a month in the client's cache
+ExpiresByType image/gif A31536000
+ExpiresByType image/png A31536000
+ExpiresByType image/jpg A31536000
+ExpiresByType image/x-icon A31536000
+ExpiresByType application/pdf A31536000
+ExpiresByType application/x-javascript A31536000
+ExpiresByType text/plain A31536000
+
+#1 Year
+<FilesMatch ".(css|gif|jpg|jpeg|png|ico|swf)$">
+Header set Cache-Control "max-age=29030400, public"
+</FilesMatch>
+
+Header set Cache-Control "public"
