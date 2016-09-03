@@ -1,0 +1,21 @@
+# Simple redirects from one path to another
+/index_en.html                                                 /index.html
+/es/                                                           /index_es.html
+/es/index.html                                                 /index_es.html
+/es/acerca_de.html                                             /index_es.html#about
+/es/consulta.html                                              /index_es.html#consulta
+/es/contacto.html                                              /index_es.html#contact
+/es/filosofia.html                                             /index_es.html#philosophy 
+/en/                                                           /index.html
+/en/index.html                                                 /index.html
+/en/about.html                                                 /index.html#about
+/en/consulting.html                                            /index.html#consulta
+/en/contact.html                                               /index.html#contact 
+/en/philosophy.html                                            /index.html#philosophy
+/blog/2005/11/efectos-de-la-administracion-de-vitaminas-antioxidantes-en-la-reversion-de-la-inhibicion-de-la-regeneracion-hepatica-ocasionada-por-el-consumo-de-etanol-3/                                                   /blog/2005/11/efectos-de-la-administracion-de-vitaminas-antioxidantes/
+/blog/2005/12/anticonceptivos-y-nutricion/                     /blog/2005/12/anticonceptivos-y-nutricion-3/
+/blog/2005/10/soya-ventajas-de-uso-y-preparacion/              /blog/2005/10/soya-ventajas-de-uso-y-preparacion-3/
+/blog/2005/10/migrana-su-relacion-con-la-alimentacion/         /blog/2005/10/migrana-su-relacion-con-la-alimentacion-3/
+/blog/2005/10/indispensable-el-consumo-de-agua-para-prevenir-problemas-de-salud/        /blog/2005/10/indispensable-el-consumo-de-agua-para-prevenir-problemas-de-salud-3/
+/blog/?p=7                                                     /blog/2005/10/ventajas-de-la-dieta-mediterranea-3/
+/contacto.html                                                 /index_es.html#contact
