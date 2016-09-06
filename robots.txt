@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /docs/
 
 User-agent: ia_archiver
 Disallow: /
