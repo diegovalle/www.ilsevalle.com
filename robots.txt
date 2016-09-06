@@ -5,5 +5,3 @@ User-agent: ia_archiver
 Disallow: /
 
 Sitemap: http://www.ilsevalle.com/sitemap.xml
-Sitemap: http://www.ilsevalle.com/blog/sitemap.xml
-Sitemap: http://www.ilsevalle.com/nutrition-blog/sitemap.xml
