@@ -20,4 +20,7 @@
 #/blog/?p=7                                                    /blog/2005/10/ventajas-de-la-dieta-mediterranea-3/
 /blog p=:7                                                     /blog/2005/10/ventajas-de-la-dieta-mediterranea-3/
 /contacto.html                                                 /index_es.html#contact
-/docs/cvenglish                                                /docs/CVEnglish.htm
+/docs/cvenglish                                                /docs/cvenglish.htm
+/docs/CVEnglish.htm                                            /docs/cvenglish.htm
+/docs/CVEnglish-2011-01-01.pdf                                 /docs/cvenglish-2011-01-01.pdf
+/docs/CVEnglish-2011-01-01.doc                                 /docs/cvenglish-2011-01-01.doc
