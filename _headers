@@ -4,3 +4,23 @@
   X-Frame-Options: SAMEORIGIN
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
+
+/blog/2005/12/anticonceptivos-y-nutricion-3/
+  Link: </blog/wp-includes/js/wp-embed.min.js>; rel=preload; as=script
+  Link: </blog/wp-includes/js/wp-emoji-release.min.js>; rel=preload; as=script
+  Link: </css/bootstrap-responsive.css>; rel=preload; as=stylesheet
+  Link: </css/bootstrap.css>; rel=preload; as=stylesheet
+  Link: </blog/wp-includes/css/dashicons.min.css>; rel=preload; as=stylesheet
+  Link: </blog/wp-content/themes/ilse_blog_es/fonts/genericons.css>; rel=preload; as=stylesheet
+  Link: </css/style.css>; rel=preload; as=stylesheet
+  Link: </blog/wp-content/themes/ilse_blog_es/style.css>; rel=preload; as=stylesheet
+
+/blog/2005/10/soya-ventajas-de-uso-y-preparacion-3/
+  Link: </blog/wp-includes/js/wp-embed.min.js>; rel=preload; as=script
+  Link: </blog/wp-includes/js/wp-emoji-release.min.js>; rel=preload; as=script
+  Link: </css/bootstrap-responsive.css>; rel=preload; as=stylesheet
+  Link: </css/bootstrap.css>; rel=preload; as=stylesheet
+  Link: </blog/wp-includes/css/dashicons.min.css>; rel=preload; as=stylesheet
+  Link: </blog/wp-content/themes/ilse_blog_es/fonts/genericons.css>; rel=preload; as=stylesheet
+  Link: </css/style.css>; rel=preload; as=stylesheet
+  Link: </blog/wp-content/themes/ilse_blog_es/style.css>; rel=preload; as=stylesheet
