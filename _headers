@@ -15,6 +15,16 @@
   Link: </js/jquery.localscroll-1.2.7-min.js>; rel=preload; as=script
   Link: </js/jquery.scrollTo-1.4.2-min.js>; rel=preload; as=script
 
+/index_es.html
+  Link: </css/bootstrap-responsive.css>; rel=preload; as=style
+  Link: <css/fontello.css>; rel=preload; as=style
+  Link: </css/style.css>; rel=preload; as=style
+  Link: </css/bootstrap.css>; rel=preload; as=style
+  Link: </js/site.js>; rel=preload; as=script
+  Link: </js/bootstrap.js>; rel=preload; as=script
+  Link: </js/jquery.localscroll-1.2.7-min.js>; rel=preload; as=script
+  Link: </js/jquery.scrollTo-1.4.2-min.js>; rel=preload; as=script
+
 /blog/2005/12/anticonceptivos-y-nutricion-3/
   Link: </blog/wp-includes/js/wp-embed.min.js>; rel=preload; as=script
   Link: </blog/wp-includes/js/wp-emoji-release.min.js>; rel=preload; as=script
